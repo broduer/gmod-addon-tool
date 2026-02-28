@@ -5,7 +5,7 @@
   "main": "app.js",
   "homepage": "https://leeous.com",
   "dependencies": {
-    "cross-spawn": "^7.0.1",
+    "cross-spawn": "^7.0.5",
     "dialog": "^0.3.1",
     "electron-settings": "^3.2.0",
     "g": "^2.0.1",
@@ -13,7 +13,7 @@
     "yarn": "^1.22.4"
   },
   "devDependencies": {
-    "electron": "^22.3.25",
+    "electron": "^35.7.5",
     "electron-builder": "^22.8.1",
     "electron-connect": "^0.6.3",
     "electron-packager": "^14.2.1"
